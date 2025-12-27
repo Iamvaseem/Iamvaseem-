@@ -25,14 +25,25 @@
 
 - ⚡ Fun fact **I think I am Funny**
 - 
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/spk-vaseem-4a758a272" target="blank"><img align="center" src="https://raw.githubusercontent.com/Iamvaseem/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/spk-vaseem-4a758a272" height="30" width="40" /></a>
-<a href="https://instagram.com/vaseem_akram___" target="blank"><img align="center" src="https://raw.githubusercontent.com/Iamvaseem/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaseem_akram___" height="30" width="40" /></a>
-</p>
-## 🐍 Snake Game
 
-![Snake Game](path_to_your_gif/snake_game.gif)
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/spk-vaseem-4a758a272") target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/Iamvaseem/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/vaseem_akram___" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/Iamvaseem/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="spkvaseem2004@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/Iamvaseem/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
+**📩 Email:** [spkvaseem2004@gmail.com](mailto:spkvaseem2004@gmail.com)  
+**💼 LinkedIn:** [SPK VASEEM ](www.linkedin.com/in/spk-vaseem-4a758a272)  
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaseem_akram___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/spk-vaseem-4a758a272) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spkvaseem2004@gmail.com) 
