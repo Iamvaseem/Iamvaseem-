@@ -25,8 +25,7 @@ Hi 👋, I'm SPK VASEEM</h1>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![Vaseem's Github Repository Contribution stats] (https://github-contributor-stats.vercel.app/api?username=Iamvaseem&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iamvaseem&show_icons=true&locale=en" alt="Iamvaseem" /></p>
+<img width="638" height="307" alt="image" src="https://github.com/user-attachments/assets/59263094-f1c0-4656-ba4c-3a449ee6dc69" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Iamvaseem&icon=1&color=0)](https://visitcount.itsvg.in)
